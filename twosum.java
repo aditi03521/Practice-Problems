@@ -1,4 +1,4 @@
-//2sum problem
+//2sum problem:find two no that sum to a target
 import java.util.Scanner;
 public class twosum{
 public static void main(String[] args){
