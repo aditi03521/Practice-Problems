@@ -1,3 +1,4 @@
+//find leader element in an array
 import java.util.Scanner;
 public class leader{
 public static void main(String[] args){
