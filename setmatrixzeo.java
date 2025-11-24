@@ -1,3 +1,4 @@
+//if element in matrix is 0,set r and c to 0
 import java.util.*;
 public class setmatrixzeo{
     int n;
