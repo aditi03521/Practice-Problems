@@ -1,3 +1,4 @@
+//product of array except self
 import java.util.Scanner;
 public class productexceptself{
 public static void main(String[] args){
