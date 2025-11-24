@@ -1,3 +1,4 @@
+//find  missing no in an array
 import java.util.Scanner;
 public class findmissingno{
 public static void main(String[] args){
