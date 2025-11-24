@@ -1,3 +1,4 @@
+//return array answer such that answer[i] is the product of all elements of nums except nums[i] without any division
 import java.util.Scanner;
 public class productexceptself{
 public static void main(String[] args){
