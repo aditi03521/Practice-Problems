@@ -1,3 +1,4 @@
+//2sum problem
 import java.util.Scanner;
 public class twosum{
 public static void main(String[] args){
