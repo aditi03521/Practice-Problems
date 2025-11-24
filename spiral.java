@@ -1,4 +1,5 @@
 
+//spiral matrix:return all elements of matrix in clockwise
 import java.util.*;
 public class spiral{
     int n;
