@@ -1,3 +1,4 @@
+// move zero to the last
 import java.util.Scanner;
 public class movezero{
 public static void main(String[] args){
