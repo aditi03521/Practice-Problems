@@ -1,3 +1,4 @@
+//find total no of continous subarrays whose sum equals to k
 import java.util.Scanner;
 public class subarrayeqk{
 public static void main(String[] args){
