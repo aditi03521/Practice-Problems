@@ -1,3 +1,4 @@
+//find duplicate no in an array
 import java.util.Scanner;
 public class duplicateno{
 public static void main(String[] args){
